@@ -1,0 +1,35 @@
+html {
+    scroll-behavior: smooth;
+}.nav-dsn{
+    background: #17b1e0;
+    color: white;
+}.heading{
+    text-align: center;
+    color: #17b1e0;
+    text-decoration: none;
+}.button-div{
+    text-align: center;
+}.button{
+    border-radius: 12px;
+    font-size: 16px;
+    background-color: #17b1e0;
+    color: white;
+    padding: 14px 40px;
+    border: 2px solid #292b2c;
+}.button:hover {
+    background-color: #292b2c;
+    color: #17b1e0;
+}.learn-more{
+    height: 100%;
+}.topsp{
+    background-color: #45ccf550;
+}.nn{
+    font-family: 'Roboto Thin';
+}.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}.row{
+    text-align: center;
+    align-content: center;
+}
